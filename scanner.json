@@ -1,0 +1,14 @@
+{
+    "banner_ad": "/6499/example/banner",
+    "interstitial_ad": "/6499/example/interstitial",
+    "open_ad": "ca-app-pub-3940256099942544/3419835294",
+    "native_ad": "ca-app-pub-3940256099942544/2247696110",
+    "native_video_ad": "ca-app-pub-3940256099942544/1044960115",
+    "rewared_ad": "ca-app-pub-3940256099942544/5224354917",
+    "is_banner_ad": true,
+    "is_open_ad": true,
+    "is_interstitial_ad": true,
+    "is_rewared_ad":true,
+    "is_native_ad": true,
+    "no_of_click_interstitial": 1
+  }
